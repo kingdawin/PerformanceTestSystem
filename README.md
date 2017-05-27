@@ -1,6 +1,8 @@
 # PerformanceTestSystem
-此系统用于手机功能的响应时间
-**系统环境要求**
+此系统用于计算手机功能的响应时间
+
+
+#系统环境要求#
 1.jdk1.8
 2.halcon
 3..Net Framework
