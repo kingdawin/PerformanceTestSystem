@@ -1,0 +1,2 @@
+# PerformanceTestSystem
+利用halcon图像算法获取图片变化率，通过设置视频开始帧，结束帧计算响应时间
